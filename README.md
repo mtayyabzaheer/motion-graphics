@@ -40,10 +40,10 @@
 ## 🌟 Featured Projects
 
 ### 1. HIFI Solutions — Logo Animation
-![HIFI Solutions Logo Animation](HIFI%20SOLUTIONS%20(Logo%20Animation).gif)
+<img src="HIFI SOLUTIONS (Logo Animation).gif" width="100%"/>
 
 ### 2. Parallax Technologies — Logo Animation
-![Parallax Technologies Logo Animation](Parallax%20Technologies%20(Logo%20Animation).gif)
+<img src="Parallax Technologies (Logo Animation).gif" width="100%"/>
 
 > 📌 Full previews and videos available on my Behance portfolio:
 > **[behance.net/m_tayyabzaheer](https://behance.net/m_tayyabzaheer)**
